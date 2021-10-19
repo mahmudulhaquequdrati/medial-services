@@ -1,0 +1,20 @@
+[
+  {
+    "key": "1",
+    "title": "Top Class Doctors",
+    "description": "Health is our greatest treasure and with incredible specialists. We all know that there is a better chance for a healthier population. we have top class doctors. we are friendly for the noobs.",
+    "img": "https://cdn-icons.flaticon.com/png/512/1912/premium/1912878.png?token=exp=1634647865~hmac=b8abe099e42ccb41000a8d27c53fe7cf"
+  },
+  {
+    "key": "2",
+    "title": "Best Equipments",
+    "description": "Siemens Healthineers remains in eighth place on the list of top medical device companies. Headquartered in Germany, Siemens Healthineers is the medical technology branch of automation and electrics conglomerate.",
+    "img": "https://cdn-icons.flaticon.com/png/512/4660/premium/4660619.png?token=exp=1634646856~hmac=017498d8c9c0905346f79367b21308bf"
+  },
+  {
+    "key": "3",
+    "title": "Emergency Support",
+    "description": "Mergency Medical Services agencies and Technical Rescue services agencies are responsible for immediate response to medical emergency calls as well as specialized rescue services calls emergency medical services",
+    "img": "https://cdn-icons.flaticon.com/png/512/4600/premium/4600809.png?token=exp=1634647123~hmac=fae5443962d32ea6567f6a93b3da8b0b"
+  }
+]

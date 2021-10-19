@@ -1,0 +1,38 @@
+[
+  {
+    "key": 1,
+    "img": "https://image.freepik.com/free-photo/young-male-psysician-with-patient-measuring-blood-pressure_1303-17879.jpg",
+    "title": "A Healing Presence",
+    "details": "Your Primary Care Giver is the most familiar with your health as a whole and will lead your team. The rest of the team will include healthcare professionals and providers you already see or may need to see to maintain."
+  },
+  {
+    "key": 2,
+    "img": "https://image.freepik.com/free-photo/drug-prescription-treatment-medication_1150-44091.jpg",
+    "title": "The Future of Care",
+    "details": "When necessary, your healthcare team will coordinate your care with other elements in the healthcare system, such as subspecialty care, hospitals, home health agencies and nursing homes healthcare records to better coordinate."
+  },
+  {
+    "key": 3,
+    "img": "https://image.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-scrubs-making-daily-errands-clinic-listening-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg",
+    "title": "Keeping You Well",
+    "details": "Your Medical Home works with you to ensure you have access to healthcare whenever you need it. If you have an urgent care need, simply call the Central Office and we will connect you with a healthcare professional."
+  },
+  {
+    "key": 4,
+    "img": "https://image.freepik.com/free-vector/healthcare-background-with-medical-symbols-hexagonal-frame_1017-26363.jpg",
+    "title": "Much Better Service",
+    "details": "Through Patient-Centered Medical Home Initiative program, the manner in which you obtain healthcare will be greatly improved. As a Patient-Centered Medical Home practice,"
+  },
+  {
+    "key": 5,
+    "img": "https://image.freepik.com/free-vector/smart-healthcare-technology-template-vector_53876-110859.jpg",
+    "title": "Cool Medical Service",
+    "details": "Routine, same-day and follow-up care appointments can also be arranged by calling the Central Office directly or by using the patient portal the quality of care is enhanced and potential for errors is minimized."
+  },
+  {
+    "key": 6,
+    "img": "https://img.freepik.com/free-photo/nurse-measuring-patient-blood-pressure_53876-14933.jpg?size=626&ext=jpg",
+    "title": "Best Blood Services",
+    "details": "we use an innovative, team-based model of care that is specifically designed to improve the coordination of your healthcare across various settings.our patient, the quality of care is enhanced and potential errors is minimized."
+  }
+]
