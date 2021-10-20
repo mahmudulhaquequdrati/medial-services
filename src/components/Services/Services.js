@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Row } from "react-bootstrap";
+
 import SingleServices from "./SingleServices/SingleServices";
 
 const Services = () => {
@@ -9,6 +10,7 @@ const Services = () => {
       .then((res) => res.json())
       .then((data) => setServices(data));
   }, []);
+
   return (
     <div>
       <h3 className="text-primary text-center">Our services</h3>

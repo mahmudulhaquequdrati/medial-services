@@ -3,7 +3,7 @@ import { Card, Col } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
 const SingleHomeServices = (props) => {
-  const { img, title, details } = props.ab;
+  const { key, img, title, details } = props.ab;
   return (
     <Col className="mb-3">
       <Card className="pb-3">
@@ -11,7 +11,9 @@ const SingleHomeServices = (props) => {
         <Card.Body>
           <Card.Title>{title}</Card.Title>
           <Card.Text>{details}</Card.Text>
-          <Link className="text-decoration-none">Show Details</Link>
+          <Link className="text-decoration-none" to={`/service/${key}`}>
+            Show Details
+          </Link>
         </Card.Body>
       </Card>
     </Col>

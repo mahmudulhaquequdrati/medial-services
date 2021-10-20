@@ -11,8 +11,8 @@ const About = () => {
   }, []);
   return (
     <div>
-      <h2>About us</h2>
-      <p className="mb-0">Here is bit about us</p>
+      <h2 className="text-center text-primary">About us</h2>
+      <p className="mb-0 text-center">Here is bit about us</p>
       <div className="p-4">
         <Row className="gy-4 p-4">
           {about.map((ab) => (
